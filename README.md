@@ -1,1 +1,1 @@
-PIT examples ([pitest.org](pitest.org)), using the Maven plugin
+PIT examples ([pitest.org](http://pitest.org)), using the Maven plugin
